@@ -57,3 +57,8 @@ markers = [
 
 [tool.coverage.run]
 omit = ["tests/*", "*/venv/*"]
+
+[dependency-groups]
+dev = [
+    "langchain-aws>=1.0.0",
+]
