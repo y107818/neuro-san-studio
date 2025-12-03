@@ -27,7 +27,7 @@
     }
     
     "llm_config": {
-        "model_name": "gpt-4o",
+        "model_name": "bedrock-us-claude-sonnet-4",
     },
     "instructions_prefix": """
 You are in charge of a portion of the help desk of an airline company.
